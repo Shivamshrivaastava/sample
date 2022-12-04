@@ -1,5 +1,5 @@
 import React from "react";
 
-export function NoPage() {
+export default function NoPage() {
   return <div>No page</div>;
 }
