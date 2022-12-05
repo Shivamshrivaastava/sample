@@ -30,7 +30,7 @@ function LandScape() {
       {[false].map((expand) => (
         <Navbar key={expand} bg="light" expand={expand} className="mb-3">
           <Container fluid>
-            <Navbar.Brand href="#">Admin Dashboard</Navbar.Brand>
+            <Navbar.Brand href="#" className="Admin">Admin Dashboard</Navbar.Brand>
             
           
             {/* <Button type="button" className="btn btn-primary" href="/home"> */}

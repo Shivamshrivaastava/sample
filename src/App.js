@@ -45,7 +45,7 @@ const Footer = () => {
     <p className="text-center" style={FooterStyle}>
       Designed & coded by{" "}
       <a
-        href="https://github.com/Shivamshrivaastava"
+        href="https://github.com/Shivamshrivaastava/sample"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -56,7 +56,7 @@ const Footer = () => {
 };
 
 const FooterStyle = {
-  background: "#222",
+  background: "black",
   fontSize: ".8rem",
   color: "#fff",
   position: "absolute",
